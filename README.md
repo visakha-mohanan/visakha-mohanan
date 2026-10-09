@@ -16,7 +16,7 @@ Passionate about developing intelligent applications that combine modern web tec
 
 ## 👩‍💻 About Me
 
-- 🎓 MCA Student at SNGCE
+- 🎓 MCA Graduate from SNGCE
 - 💡 Passionate about Full-Stack Development and Artificial Intelligence
 - 🤖 Interested in Computer Vision and Deep Learning
 - 🌱 Currently exploring advanced AI applications
